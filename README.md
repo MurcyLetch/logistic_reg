@@ -1,1 +1,1 @@
-# logistic_reg
+# logistic
